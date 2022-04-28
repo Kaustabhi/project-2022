@@ -22,6 +22,15 @@ return (
             <Link class="nav-link" to="/Contact">Contact</Link>
           </li>
           <li class="nav-item">
+            <Link class="nav-link" to="/Spicybite">Spicy Bite</Link>
+          </li>
+          <li class="nav-item">
+            <Link class="nav-link" to="/Agarwalgstore">Agarwal General Store</Link>
+          </li>
+          <li class="nav-item">
+            <Link class="nav-link" to="/bhaduriyamedicalstore">Bhaduriya Medical Store</Link>
+          </li>
+          <li class="nav-item">
             <a class="nav-link menu">Menu</a>
           </li>
           <li class="nav-item dropdown">
